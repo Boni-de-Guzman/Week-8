@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Spicy Sweet & Sour Chicken",
+    "price": "8.50",
+    "imageURL" : "https://media.istockphoto.com/photos/asian-oranage-chicken-with-green-onions-picture-id483120255?k=20&m=483120255&s=612x612&w=0&h=UX3BT-1WCvwAdsSiuuKTeFjklOdPXndZFwFQ0AeJyGE="
+  },
+  {
+    "id": 2,
+    "name": "Mongolian Beef",
+    "price": "7.50",
+    "imageURL" : "https://thecozyapron.com/wp-content/uploads/2018/05/mongolian-beef_thecozyapron_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Shrimp Stir Fry",
+    "price": "6.50",
+    "imageURL" : "https://c1.wallpaperflare.com/preview/345/82/497/food-meal-vegetable-dinner.jpg"
+  }
+]
